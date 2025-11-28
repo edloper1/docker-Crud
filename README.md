@@ -128,6 +128,20 @@ Acceder a: http://localhost/api/users
 
 ---
 
+## 📚 Guía de Deploy
+
+Para instrucciones detalladas sobre cómo desplegar el proyecto en diferentes plataformas (Render, Railway, Heroku, AWS, etc.), consulta la **[Guía de Deploy completa](./DEPLOY.md)**.
+
+La guía incluye:
+- ✅ Deploy local con Docker
+- ✅ Deploy en Render (paso a paso)
+- ✅ Deploy en Railway
+- ✅ Deploy en otros servicios (Heroku, DigitalOcean, AWS)
+- ✅ Configuración de variables de entorno
+- ✅ Troubleshooting y solución de problemas
+
+---
+
 ## 📊 Base de Datos
 
 **Tabla:** `users`
